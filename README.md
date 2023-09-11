@@ -25,7 +25,7 @@ O SCRUM promove a reflexão e a melhoria contínua por meio de revisões regular
 * Maior envolvimento da equipe: 
 O SCRUM capacita os membros da equipe, dando-lhes mais controle sobre o processo de desenvolvimento, o que pode aumentar a motivação e a satisfação.
 
-Desvantagens do SCRUM:
+## Desvantagens do SCRUM:
 
 * Requer disciplina e comprometimento: 
 O SCRUM exige que as equipes sigam um conjunto de regras e princípios rigorosos, e a falta de disciplina pode levar ao fracasso.
