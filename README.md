@@ -3,10 +3,10 @@
 ## Disciplina: Engenharia de Software
 ### Aluno: Gabriel Silva Sousa
 
-* O paradigma do momento é o desenvolvimento ágil, no qual o SCRUM é um dos modelos mais conhecidos. Do seu ponto de vista, quais as vantagens e desvantagens no uso do SCRUM? Ele se enquadra no desenvolvimento de qualquer tipo de software? Justifique sua resposta. 
+## O paradigma do momento é o desenvolvimento ágil, no qual o SCRUM é um dos modelos mais conhecidos. Do seu ponto de vista, quais as vantagens e desvantagens no uso do SCRUM? Ele se enquadra no desenvolvimento de qualquer tipo de software? Justifique sua resposta. 
 
 
-* O SCRUM é uma metodologia ágil de desenvolvimento de software que tem sido amplamente adotada em muitas organizações devido às suas vantagens, mas também apresenta desvantagens e não é adequado para todos os tipos de projetos. Aqui estão algumas vantagens e desvantagens do uso do SCRUM:
+### O SCRUM é uma metodologia ágil de desenvolvimento de software que tem sido amplamente adotada em muitas organizações devido às suas vantagens, mas também apresenta desvantagens e não é adequado para todos os tipos de projetos. Aqui estão algumas vantagens e desvantagens do uso do SCRUM:
 
 ## Vantagens do SCRUM:
 
